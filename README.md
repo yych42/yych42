@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Yao. My dev works focus on products for mental health and social research.
+I'm Yao. I make products for mental health and social research.
 
 ![](https://github-readme-stats.vercel.app/api?username=yych42&show_icons=true&theme=radical)
 
@@ -9,7 +9,7 @@ I'm Yao. My dev works focus on products for mental health and social research.
 - [[yych/SP2S]](https://github.com/yych42/SP2S): A GUI-based statistics software for macOS, Windows, Linux, and Web.
 - Other secret projects to be announced soon.
 
-### Tools I enjoy...
+### 🛠 Tools I enjoy...
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
