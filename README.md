@@ -9,6 +9,9 @@ I'm Yao. I make products for mental health and social research.
 - [[yych/SP2S]](https://github.com/yych42/SP2S): A GUI-based statistics software for macOS, Windows, Linux, and Web.
 - Other secret projects to be announced soon.
 
+### Cool things...
+- [[yych/merced-theme]](https://github.com/yych42/merced-theme): A serif-based theme for Typora
+
 ### 🛠 Tools I enjoy...
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
