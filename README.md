@@ -4,14 +4,6 @@ I'm Yao. I make products for mental health and social research.
 
 ![](https://github-readme-stats.vercel.app/api?username=yych42&show_icons=true&theme=radical)
 
-### 🔭 I’m currently working on...
-- [[runkaiz/sdartistics]](https://github.com/runkaiz/sdartistics): A statistics package for dart.
-- [[yych/SP2S]](https://github.com/yych42/SP2S): A GUI-based statistics software for macOS, Windows, Linux, and Web.
-- Other secret projects to be announced soon.
-
-### 😎 Cool things...
-- [[yych/merced-theme]](https://github.com/yych42/merced-theme): A serif-based theme for Typora
-
 ### 🛠 Tools I enjoy...
 <a href="https://www.researchgate.net/profile/Yaoyu_Chen2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
 <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></a>
