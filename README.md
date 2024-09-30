@@ -2,8 +2,6 @@
 
 I'm Yao. I make products for mental health and social research.
 
-![](https://github-readme-stats.vercel.app/api?username=yych42&show_icons=true&theme=radical)
-
 ### 🛠 Tools I enjoy...
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/></a>
 <a href="https://www.researchgate.net/profile/Yaoyu_Chen2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
