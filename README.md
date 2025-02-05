@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Yao. I make products for mental health and social research.
+I'm Yao. I make stuff.
 
 ### 🛠 Tools I enjoy...
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/></a>
